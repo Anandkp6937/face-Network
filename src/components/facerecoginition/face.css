@@ -1,0 +1,19 @@
+.face{
+width:500px;
+position: absolute;
+top:70%;
+left:30%;
+
+}
+img{
+  width:100%;
+  height:auto;
+}
+.border{
+  position: absolute;
+  box-shadow:0 0 0 3px #57c1cb;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor:pointer;
+}

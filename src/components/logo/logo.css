@@ -1,0 +1,15 @@
+.logoDiv{
+  width:160px;
+  height:160px;
+  padding:10px;
+  /* background: #a29b77; */
+  margin:28px;
+
+}
+img{
+  width:100%;
+  height:100%;
+  -webkit-box-shadow: 11px 2px 44px -12px rgba(73,173,227,1);
+-moz-box-shadow: 11px 2px 44px -12px rgba(73,173,227,1);
+box-shadow: 11px 2px 44px -12px rgba(73,173,227,1);
+}

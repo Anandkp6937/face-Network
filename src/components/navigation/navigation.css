@@ -1,0 +1,16 @@
+nav{
+  display: flex;
+  font-size:30px;
+  justify-content: flex-end;
+  margin:25px;
+
+}
+#signout{
+  position: absolute;
+  top:5%;
+  right:5%;
+  transition: 0.2s;
+}
+#signout:hover{
+opacity:0.7;
+}
